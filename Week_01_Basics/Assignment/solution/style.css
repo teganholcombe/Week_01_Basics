@@ -1,0 +1,47 @@
+/* style */
+
+body {
+
+	background-color: #f6f6f6;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+
+	text-transform: uppercase;
+}
+
+h2 {
+
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+ul {
+
+	text-decoration: none;
+}
+
+li {
+
+	text-decoration: none;
+	color: purple;
+	line-height: 25px;
+}
+
+
+a {
+	color: #000;
+	font-weight: 400;
+	padding-right: 10px;
+}
+
+img {
+
+	border: 8px solid #FFF;
+}
+
+p {
+
+	line-height: 25px;
+}
